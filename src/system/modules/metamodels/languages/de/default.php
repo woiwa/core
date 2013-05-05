@@ -8,10 +8,14 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-05T11:56:00+02:00
+ * last-updated: 2013-05-05T17:54:22+02:00
  */
 
 $GLOBALS['TL_LANG']['BRD']['metamodel_attribute']                   = 'Attribute von "%s"';
+$GLOBALS['TL_LANG']['BRD']['metamodel_dca']                         = 'Alle Eingabemasken für "%s"';
+$GLOBALS['TL_LANG']['BRD']['metamodel_dcasetting']                  = 'Eingabemaske in "%s"';
+$GLOBALS['TL_LANG']['BRD']['metamodel_rendersetting']               = 'Rendereinstellungen in "%s"';
+$GLOBALS['TL_LANG']['BRD']['metamodel_rendersettings']              = 'Rendereinstellungen von "%s"';
 $GLOBALS['TL_LANG']['BRD']['metamodels']                            = 'MetaModels';
 $GLOBALS['TL_LANG']['CTE']['metamodel_content']['0']                = 'MetaModel-Liste';
 $GLOBALS['TL_LANG']['CTE']['metamodel_content']['1']                = 'Fügt eine Liste aus MetaModel-Datensätzen dem Artikel hinzu.';
@@ -25,6 +29,8 @@ $GLOBALS['TL_LANG']['ERR']['invalidTableName']                      = 'Der Tabel
 $GLOBALS['TL_LANG']['ERR']['no_view']                               = 'Sie haben versucht, auf das MetaModel "%s" ohne eine Ansichtsoption für Benutzer %s zuzugreifen.';
 $GLOBALS['TL_LANG']['MSC']['metamodel_filtersetting']['editRecord'] = 'Filtereinstellungen %%s für Filter "%s" in MetaModel "%" bearbeiten';
 $GLOBALS['TL_LANG']['MSC']['metamodel_filtersetting']['label']      = 'Filter "%s" in MetaModel "%s"';
+$GLOBALS['TL_LANG']['MSC']['metamodel_rendersetting']['editRecord'] = 'Attributeinstellungen %%s für Rendereinstellungen "%s" in MetaModel "%s" bearbeiten';
+$GLOBALS['TL_LANG']['MSC']['metamodel_rendersetting']['label']      = 'Rendereinstellungen "%s" in MetaModel "%s"';
 $GLOBALS['TL_LANG']['MSC']['noItemsMsg']                            = 'Ihre Suche lieferte keine passenden Ergebnisse.';
 $GLOBALS['TL_LANG']['MSC']['panelLayout']['filter']['0']            = 'Filter';
 $GLOBALS['TL_LANG']['MSC']['panelLayout']['limit']['0']             = 'Limitierung';

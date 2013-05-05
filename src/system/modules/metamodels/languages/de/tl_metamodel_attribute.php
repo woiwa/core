@@ -8,9 +8,8 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-04T02:11:31+02:00
+ * last-updated: 2013-05-05T17:54:22+02:00
  */
-
 
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['advanced_legend']  = 'Erweiterte Einstellungen';
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['colname']['0']     = 'Spaltenname';
@@ -30,6 +29,7 @@ $GLOBALS['TL_LANG']['tl_metamodel_attribute']['editheader']['1']  = 'Bearbeiten 
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['isunique']['0']    = 'Eindeutige Werte';
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['isunique']['1']    = 'Wählen Sie diese Option, wenn Sie sicherstellen möchten dass jeder Wert nur einmal vorkommen kann.';
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['isvariant']['0']   = 'Varianten überschreiben';
+$GLOBALS['TL_LANG']['tl_metamodel_attribute']['isvariant']['1']   = 'Anwählen, falls Sie innerhalb des MetaModels Varianten wünschen um Elternwerte zu überschreiben.';
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['name']['0']        = 'Name';
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['name']['1']        = 'Für Menschen lesbarer Name.';
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['name_langcode']    = 'Sprache';
