@@ -8,9 +8,8 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-04T02:10:55+02:00
+ * last-updated: 2013-05-05T14:11:18+02:00
  */
-
 
 $GLOBALS['TL_LANG']['XPL']['customsql']['0']['0'] = 'Zusammenfassung';
 $GLOBALS['TL_LANG']['XPL']['customsql']['0']['1'] = 'Geben Sie eine SQL-Abfrage ein die ausgeführt werden soll.<br />⏎
@@ -18,6 +17,9 @@ $GLOBALS['TL_LANG']['XPL']['customsql']['0']['1'] = 'Geben Sie eine SQL-Abfrage 
 »»
 ';
 $GLOBALS['TL_LANG']['XPL']['customsql']['1']['0'] = 'Beispiel 1<br />Einfache Abfrage';
+$GLOBALS['TL_LANG']['XPL']['customsql']['1']['1'] = '<pre>SELECT id FROM mm_mymetamodel WHERE page_id=1</pre>
+		Dieses selektiert alle IDs von der Tabelle <em>mm_mymetamodel</em> wo der Wert <em>page_id=1</em> ist.
+		';
 $GLOBALS['TL_LANG']['XPL']['customsql']['2']['0'] = 'Beispiel 2<br />Tabellennamen einsetzen';
 $GLOBALS['TL_LANG']['XPL']['customsql']['3']['0'] = 'Inserttags';
 $GLOBALS['TL_LANG']['XPL']['customsql']['4']['0'] = 'Sichere Inserttags';

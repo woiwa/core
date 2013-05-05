@@ -8,9 +8,8 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-04T19:11:17+02:00
+ * last-updated: 2013-05-05T14:11:18+02:00
  */
-
 
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['addall']['0']                = 'Alle hinzufügen';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['advanced_legend']            = 'Erweitert';
@@ -20,11 +19,16 @@ $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['backend_legend']             = '
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['chosen']['0']                = 'Chosen';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['cols']['0']                  = 'Spalten';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['config_legend']              = 'Einstellungen';
+$GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['copy']['0']                  = 'Kopiere Einstellung';
+$GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['copy']['1']                  = 'Kopiere Einstellung ID %s';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['dcatype']['0']               = 'Typ';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['dcatype']['1']               = 'Wählen Sie den Attributstypen aus.';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['dcatypes']['attribute']      = 'Attribut';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['dcatypes']['legend']         = 'Legende';
+$GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['delete']['0']                = 'Lösche Einstellung';
+$GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['delete']['1']                = 'Lösche Einstellung ID %s';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['edit']['0']                  = 'Einstellung bearbeiten';
+$GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['edit']['1']                  = 'Bearbeite Einstellungen ID %s';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['filterable']['0']            = 'Filterbar';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['includeBlankOption']['0']    = 'Leere Option einfügen';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['legendhide']['0']            = 'Legende verstecken';
@@ -39,6 +43,7 @@ $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['new']['0']                   = '
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['new']['1']                   = 'Neue Einstellung erstellen.';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['rows']['0']                  = 'Zeilen';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['searchable']['0']            = 'Suchbar';
+$GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['show']['1']                  = 'Zeige Details der Einstellung ID %s';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['sortable']['0']              = 'Sortierbar';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['sortingflag']['1']           = 'Aufsteigende Sortierung nach Anfangsbuchstabe';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['sortingflag']['10']          = 'Absteigende Sortierung nach Jahr';
