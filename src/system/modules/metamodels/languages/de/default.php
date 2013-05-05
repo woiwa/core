@@ -8,7 +8,7 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-05T17:54:22+02:00
+ * last-updated: 2013-05-05T22:11:13+02:00
  */
 
 $GLOBALS['TL_LANG']['BRD']['metamodel_attribute']                   = 'Attribute von "%s"';
@@ -50,7 +50,7 @@ $GLOBALS['TL_LANG']['MSC']['tl_class']['wizard']['0']               = 'wizard';
 $GLOBALS['TL_LANG']['MSC']['tl_class']['wizard']['1']               = 'Verkürzt das Eingabefeld, damit genug Platz für den Wizard (z.B. Date Picker) ist.';
 $GLOBALS['TL_LANG']['metamodels_frontendfilter']['action_add']      = '+';
 $GLOBALS['TL_LANG']['metamodels_frontendfilter']['action_remove']   = '-';
-$GLOBALS['TL_LANG']['metamodels_frontendfilter']['do_not_filter']   = 'keine Filterung';
+$GLOBALS['TL_LANG']['metamodels_frontendfilter']['do_not_filter']   = 'Nicht filtern';
 $GLOBALS['TL_LANG']['metamodels_frontendfilter']['no_combinations'] = '(Keine passenden Kombinationen gefunden.)';
-$GLOBALS['TL_LANG']['metamodels_frontendfilter']['select_all']      = 'alle auswählen';
-$GLOBALS['TL_LANG']['metamodels_frontendfilter']['submit']          = 'filtern';
+$GLOBALS['TL_LANG']['metamodels_frontendfilter']['select_all']      = 'Alles auswählen';
+$GLOBALS['TL_LANG']['metamodels_frontendfilter']['submit']          = 'Filter';
