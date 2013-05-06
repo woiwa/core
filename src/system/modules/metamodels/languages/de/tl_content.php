@@ -8,7 +8,7 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-06T15:11:29+02:00
+ * last-updated: 2013-05-06T16:11:21+02:00
  */
 
 $GLOBALS['TL_LANG']['tl_content']['ASC']                                 = 'aufsteigend';
@@ -17,6 +17,7 @@ $GLOBALS['TL_LANG']['tl_content']['editfiltersetting']['0']              = 'Filt
 $GLOBALS['TL_LANG']['tl_content']['editfiltersetting']['1']              = 'Die Filtereinstellungen ID %s bearbeiten';
 $GLOBALS['TL_LANG']['tl_content']['editmetamodel']['0']                  = 'MetaModel bearbeiten';
 $GLOBALS['TL_LANG']['tl_content']['editmetamodel']['1']                  = 'Das MetaModel mit der ID% bearbeiten.';
+$GLOBALS['TL_LANG']['tl_content']['editrendersetting']['0']              = 'Rendereinstellungen bearbeiten';
 $GLOBALS['TL_LANG']['tl_content']['metamodel']['0']                      = 'MetaModel';
 $GLOBALS['TL_LANG']['tl_content']['metamodel']['1']                      = 'Bitte geben Sie das MetaModel an, das in dieser Auflistung verwendet werden soll.';
 $GLOBALS['TL_LANG']['tl_content']['metamodel_donotindex']['0']           = 'Nicht zum Suchindex hinzufügen';
@@ -52,3 +53,4 @@ $GLOBALS['TL_LANG']['tl_content']['metamodel_use_limit']['0']            = 'Offs
 $GLOBALS['TL_LANG']['tl_content']['metamodel_use_limit']['1']            = 'Auswählen, falls Sie die Anzahl anzuzeigender Items begrenzen möchten. Diese Einstellung ist beipielsweise nützlich, wenn Sie nur die ersten 500 Items anzeigen möchten, oder falls Sie alle Items anzeigen und dabei die ersten 10 überspringen wollen. Eine voreingestellte Paginierung bleibt dabei erhalten.';
 $GLOBALS['TL_LANG']['tl_content']['mm_config_legend']                    = 'MetaModel-Einstellungen';
 $GLOBALS['TL_LANG']['tl_content']['mm_filter_legend']                    = 'MetaModel-Filter';
+$GLOBALS['TL_LANG']['tl_content']['mm_rendering']                        = 'MetaModel-Rendering';
