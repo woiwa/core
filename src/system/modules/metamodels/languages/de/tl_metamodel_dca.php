@@ -8,9 +8,8 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-04T02:11:31+02:00
+ * last-updated: 2013-05-06T13:11:20+02:00
  */
-
 
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['backend_legend']           = 'Backend-Integration';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['backendcaption']['0']      = 'Backend-Hilfetext';
@@ -25,16 +24,30 @@ $GLOBALS['TL_LANG']['tl_metamodel_dca']['becap_label']['0']         = 'Labeltext
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['becap_label']['1']         = 'Dieser Text wird als Menü-Label im Backend benutzt.';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['becap_langcode']['0']      = 'Sprache';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['becap_langcode']['1']      = 'Wählen Sie die Sprachen aus, die Sie zur Verfügung stellen wollen.';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['copy']['0']                = 'Eingabemaske kopieren';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['copy']['1']                = 'Kopieren Sie die Definition der Eingabemaske ID %s.';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['delete']['0']              = 'Eingabemaske löschen';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['delete']['1']              = 'Löschen Sie die Eingabemaske ID %s.';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['edit']['0']                = 'Eingabemaske bearbeiten';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['edit']['1']                = 'Bearbeiten Sie die Eingabemaske ID %s.';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['flag']['0']                = 'Sortier-Flag';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['isdefault']['0']           = 'Als Standard verwenden';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['isdefault']['1']           = 'Bestimmt, dass diese Eingabemaske als Standard für das Eltern-MetaModel benutzt wird.';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['limit_rendersetting']['1'] = 'Wählen Sie zwischen Frontend und Backend aus.';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['mode']['0']                = 'Sortiermodus';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['mode']['1']                = 'Sortiermodus für die Item-Ansicht';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['name']['0']                = 'Name';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['name']['1']                = 'Name der Eingabemaske';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['new']['0']                 = 'Neue Eingabemaske';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['new']['1']                 = 'Erstellen Sie eine neue Eingabemaske.';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['ptable']['0']              = 'Name der Elterntabelle (falls zutreffend)';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['ptable']['1']              = 'Name der Datenbanktabelle, die als Elterntabelle benutzt werden soll';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['rendertype']['0']          = 'Integration';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['rendertype']['1']          = 'Die gewünschte Integrationsart im Backend auswählen.';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['settings']['0']            = 'Eingabemasken-Einstellungen';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['settings']['1']            = 'Bearbeiten Sie ein Einstellungen der Eingabemaske ID %s.';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['show']['0']                = 'Details der Eingabemaske';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['show']['1']                = 'Sehen Sie die Details der Eingabemaske %s an.';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['sortingflag']['1']         = 'Nach erstem Buchstaben aufsteigend sortieren';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['sortingflag']['10']        = 'Nach Jahr absteigend';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['sortingflag']['11']        = 'aufsteigend sortieren';

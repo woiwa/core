@@ -8,14 +8,14 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-04T02:10:55+02:00
+ * last-updated: 2013-05-06T13:11:20+02:00
  */
-
 
 $GLOBALS['TL_LANG']['tl_metamodel_filtersetting']['all_langs']['0']            = 'Alle Sprachen durchsuchen';
 $GLOBALS['TL_LANG']['tl_metamodel_filtersetting']['all_langs']['1']            = 'Auswählen, falls Sie sprachunabhängige Suche ermöglichen möchten. Wenn nicht angewählt wird nur die aktive Sprache für die Suche benutzt.';
 $GLOBALS['TL_LANG']['tl_metamodel_filtersetting']['allow_empty']['0']          = 'Leeren Wert erlauben';
 $GLOBALS['TL_LANG']['tl_metamodel_filtersetting']['attr_id']['0']              = 'Attribut';
+$GLOBALS['TL_LANG']['tl_metamodel_filtersetting']['attr_id']['1']              = 'Attribut, auf das sich diese Einstellung bezieht.';
 $GLOBALS['TL_LANG']['tl_metamodel_filtersetting']['blankoption']['0']          = 'Leere Auswahl ermöglichen';
 $GLOBALS['TL_LANG']['tl_metamodel_filtersetting']['blankoption']['1']          = 'Leere Auswahloption im Select ermöglichen.';
 $GLOBALS['TL_LANG']['tl_metamodel_filtersetting']['comment']['0']              = 'Kommentar';
