@@ -8,24 +8,24 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-06T22:11:27+02:00
+ * last-updated: 2013-05-06T23:11:21+02:00
  */
 
-$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['copy']['0']              = 'Kopiere Einstellung';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['copy']['0']              = 'Einstellung kopieren';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['copy']['1']              = 'Kopieren Sie die Einstellung ID %s.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['delete']['0']            = 'Einstellung löschen';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['delete']['1']            = 'Löschen Sie die Einstellung ID %s.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['edit']['0']              = 'Einstellung bearbeiten';
-$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['edit']['1']              = 'Bearbeite Einstellungen ID %s';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['edit']['1']              = 'Bearbeiten Sie die Einstellungen ID %s.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['expert_legend']          = 'Experteneinstellungen';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['format']['0']            = 'Ausgabeformat';
-$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['format']['1']            = 'Definieren Sie das Ausgabeformat. Leer lassen, um das Format von der aktuellen Seite zu verwenden. ';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['format']['1']            = 'Legen Sie das Ausgabeformat fest. Lassen Sie die Definition leer, um das Format zu verwenden, das von der aktuellen Seite benutzt wird.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['formatOptions']['html5'] = 'HTML5';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['formatOptions']['text']  = 'Text';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['formatOptions']['xhtml'] = 'XHTML';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['general_legend']         = 'Grundeinstellungen';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['hideEmptyValues']['0']   = 'Leere Einträge verbergen';
-$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['hideEmptyValues']['1']   = 'Verberge leere Einträge im Backend und im Frontend.';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['hideEmptyValues']['1']   = 'Verbirgt leere Einträge im Backend und im Frontend.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['hideLabels']['0']        = 'Labels verbergen';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['hideLabels']['1']        = 'Verberge alle Labels im Backend und im Frontend.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['isdefault']['0']         = 'Als Standard verwenden';
@@ -41,13 +41,13 @@ $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['jumpTo_page']['1']       = '
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['name']['0']              = 'Name';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['name']['1']              = 'Namenseinstellungen';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['new']['0']               = 'Neu';
-$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['new']['1']               = 'Neue Einstellung erstellen.';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['new']['1']               = 'Erstellen Sie eine neue Einstellung.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['settings']['0']          = 'Attributeinstellungen definieren';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['settings']['1']          = 'Definieren Sie die Attributeinstellungen für die Filtereinstellung ID %s.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['show']['0']              = 'Filterdetails';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['show']['1']              = 'Zeige Details der Einstellung ID %s';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['template']['0']          = 'Template';
-$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['template']['1']          = 'Angepasstes Template für das Rendern der Einträge.';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['template']['1']          = 'Geben Sie ein (angepasstes) Template an, das für das Rendern der Einträge benutzt werden soll.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['title_legend']           = 'Name';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['tstamp']['0']            = 'Aktualisierungsdatum';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['tstamp']['1']            = 'Datum und Zeit der letzten Aktualisierung.';
