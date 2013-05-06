@@ -8,7 +8,7 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-06T16:11:21+02:00
+ * last-updated: 2013-05-06T17:11:25+02:00
  */
 
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['backend_legend']            = 'Backend-Integration';
@@ -31,8 +31,10 @@ $GLOBALS['TL_LANG']['tl_metamodel_dca']['delete']['1']               = 'Löschen
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['edit']['0']                 = 'Eingabemaske bearbeiten';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['edit']['1']                 = 'Bearbeiten Sie die Eingabemaske ID %s.';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['flag']['0']                 = 'Sortier-Flag';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['flag']['1']                 = 'Sortiermodus für die Item-Ansicht';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['isdefault']['0']            = 'Als Standard verwenden';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['isdefault']['1']            = 'Bestimmt, dass diese Eingabemaske als Standard für das Eltern-MetaModel benutzt wird.';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['limit_rendersetting']['0']  = 'Die Rendering-Einstellung begrenzen';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['limit_rendersetting']['1']  = 'Wählen Sie zwischen Frontend und Backend aus.';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['mode']['0']                 = 'Sortiermodus';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['mode']['1']                 = 'Sortiermodus für die Item-Ansicht';
@@ -40,6 +42,9 @@ $GLOBALS['TL_LANG']['tl_metamodel_dca']['name']['0']                 = 'Name';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['name']['1']                 = 'Name der Eingabemaske';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['new']['0']                  = 'Neue Eingabemaske';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['new']['1']                  = 'Erstellen Sie eine neue Eingabemaske.';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['panelLayout']['0']          = 'Panel-Layout ';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['panelLayout']['1']          = 'Separate Bedienfeldoptionen mit Komma (= Raum) und Semikolon (= neue Zeile) wie Sortieren, Filtern, suchen begrenzen.';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['panelpicker']               = 'Panelpicker';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['ptable']['0']               = 'Name der Elterntabelle (falls zutreffend)';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['ptable']['1']               = 'Name der Datenbanktabelle, die als Elterntabelle benutzt werden soll';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['rendertype']['0']           = 'Integration';
@@ -68,7 +73,10 @@ $GLOBALS['TL_LANG']['tl_metamodel_dca']['sortingmode']['mode_2']     = '2 - Date
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['sortingmode']['mode_3']     = '3 - Datensätze nach Elterntabelle sortieren';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['sortingmode']['mode_4']     = '4 Zeigt die Kindelemente eines Elternelements an (siehe Stylesheet-Modul)';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['sortingmode']['mode_5']     = '5 Einträge werden als Baumstruktur dargestellt (siehe Seitenstruktur)';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['sortingmode']['mode_6']     = '6 Zeigt die Kindelemente eines Baumelements an (siehe Akrtikel-Modul)';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['title_legend']              = 'Name';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['tstamp']['0']               = 'Aktualisierungsdatum';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['tstamp']['1']               = 'Datum und Zeit der letzten Aktualisierung.';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['use_limitview']['0']        = 'Limitierung anzeigen';
+$GLOBALS['TL_LANG']['tl_metamodel_dca']['use_limitview']['1']        = 'Die Limitierungsansicht aktivieren.';
 $GLOBALS['TL_LANG']['tl_metamodel_dca']['view_legend']               = 'Einstellungen ansehen';

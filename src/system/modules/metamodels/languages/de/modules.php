@@ -8,9 +8,8 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-04T02:11:31+02:00
+ * last-updated: 2013-05-06T17:11:24+02:00
  */
-
 
 $GLOBALS['TL_LANG']['FMD']['metamodel_list']['0']            = 'MetaModel-Liste';
 $GLOBALS['TL_LANG']['FMD']['metamodel_list']['1']            = 'Fügt eine Liste aus MetaModel-Datensätzen dem Artikel hinzu.';
@@ -20,3 +19,5 @@ $GLOBALS['TL_LANG']['FMD']['metamodels_frontendfilter']['0'] = 'MetaModel-Fronte
 $GLOBALS['TL_LANG']['FMD']['metamodels_frontendfilter']['1'] = 'Fügt einen Frontend-Filter für ein MetaModel hinzu';
 $GLOBALS['TL_LANG']['MOD']['metamodels']['0']                = 'MetaModels';
 $GLOBALS['TL_LANG']['MOD']['metamodels']['1']                = 'Die MetaModels-Erweiterung ermöglicht es, eigene Datenmodelle zu erstellen';
+$GLOBALS['TL_LANG']['MOD']['support_metamodels']['0']        = 'MetaModels unterstützen';
+$GLOBALS['TL_LANG']['MOD']['support_metamodels']['1']        = 'Unterstützungs Informationen für die Metamodels Erweiterung.';

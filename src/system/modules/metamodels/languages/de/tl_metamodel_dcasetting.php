@@ -8,7 +8,7 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-06T14:11:18+02:00
+ * last-updated: 2013-05-06T17:11:25+02:00
  */
 
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['addAll_addsuccess']            = 'Das Attribut "%s" wurde der Eingabemaske hinzugefügt.';
@@ -28,6 +28,7 @@ $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['backend_legend']               =
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['chosen']['0']                  = 'Chosen';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['chosen']['1']                  = '\'Chosen\' für die Auswahl aktivieren.';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['cols']['0']                    = 'Spalten';
+$GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['cols']['1']                    = 'Anzahl der Spalten die für longtext / table Widget verwenden werden';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['config_legend']                = 'Einstellungen';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['copy']['0']                    = 'Kopiere Einstellung';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['copy']['1']                    = 'Kopiere Einstellung ID %s';
@@ -35,6 +36,8 @@ $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['dcatype']['0']                 =
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['dcatype']['1']                 = 'Wählen Sie den Attributstypen aus.';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['dcatypes']['attribute']        = 'Attribut';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['dcatypes']['legend']           = 'Legende';
+$GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['decodeEntities']['0']          = 'HTML-Entitäten dekodieren.';
+$GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['decodeEntities']['1']          = 'Wählen Sie dies aus. Wenn HTML Entitäten dekodiert werden sollen.';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['delete']['0']                  = 'Lösche Einstellung';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['delete']['1']                  = 'Lösche Einstellung ID %s';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['edit']['0']                    = 'Einstellung bearbeiten';
@@ -44,6 +47,7 @@ $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['filterable']['1']              =
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['flag']['0']                    = 'Sortierungsvorgabe überschreiben';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['flag']['1']                    = 'Auswählen, falls Sie die globale Vorgabe für die Sortierung dieses Attributes überschreiben möchten.';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['includeBlankOption']['0']      = 'Leere Option einfügen';
+$GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['includeBlankOption']['1']      = 'Bei true wird die Option leer hinzugefügt werden die den Optionen ermöglicht, eine Option "kein Element ausgewählt" zu definieren. ';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['legendhide']['0']              = 'Legende verbergen';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['legendhide']['1']              = 'Die Legende standardmäßig verstecken.';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['legendtitle']['0']             = 'Legenden-Titel';
@@ -57,6 +61,7 @@ $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['new']['1']                     =
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['preserveTags']['0']            = 'HTML-Tags nicht codieren.';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['preserveTags']['1']            = 'Falls ausgewählt werden HTML-Tags nicht codiert.';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['rows']['0']                    = 'Zeilen';
+$GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['rows']['1']                    = 'Anzahl der Zeilen, die für longtext / table Widget verwendet werden.';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['rte']['0']                     = 'Richtext-Editor aktivieren';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['rte']['1']                     = 'Wählen Sie die Konfiguration für den Richtext-Editor aus, die für dieses Feld benutzt werden soll (falls vorhanden).';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['searchable']['0']              = 'Suchbar';
