@@ -8,7 +8,7 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-06T13:11:20+02:00
+ * last-updated: 2013-05-06T14:11:18+02:00
  */
 
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['addAll_addsuccess']            = 'Das Attribut "%s" wurde der Eingabemaske hinzugefügt.';
@@ -41,6 +41,8 @@ $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['edit']['0']                    =
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['edit']['1']                    = 'Bearbeite Einstellungen ID %s';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['filterable']['0']              = 'Filterbar';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['filterable']['1']              = 'Auswählen, falls dieses Attribut für die Filterung im Backend zur Verfügung stehen soll.';
+$GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['flag']['0']                    = 'Sortierungsvorgabe überschreiben';
+$GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['flag']['1']                    = 'Auswählen, falls Sie die globale Vorgabe für die Sortierung dieses Attributes überschreiben möchten.';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['includeBlankOption']['0']      = 'Leere Option einfügen';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['legendhide']['0']              = 'Legende verbergen';
 $GLOBALS['TL_LANG']['tl_metamodel_dcasetting']['legendhide']['1']              = 'Die Legende standardmäßig verstecken.';
