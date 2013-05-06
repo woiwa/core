@@ -8,9 +8,8 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-04T02:11:31+02:00
+ * last-updated: 2013-05-06T15:11:29+02:00
  */
-
 
 $GLOBALS['TL_LANG']['tl_content']['ASC']                                 = 'aufsteigend';
 $GLOBALS['TL_LANG']['tl_content']['DESC']                                = 'absteigend';
@@ -50,5 +49,6 @@ $GLOBALS['TL_LANG']['tl_content']['metamodel_sortby']['1']               = 'Bitt
 $GLOBALS['TL_LANG']['tl_content']['metamodel_sortby_direction']['0']     = 'Sortierreihenfolge';
 $GLOBALS['TL_LANG']['tl_content']['metamodel_sortby_direction']['1']     = 'In aufsteigender oder absteigender Reihenfolge';
 $GLOBALS['TL_LANG']['tl_content']['metamodel_use_limit']['0']            = 'Offset und Limit für die Auflistung verwenden';
+$GLOBALS['TL_LANG']['tl_content']['metamodel_use_limit']['1']            = 'Auswählen, falls Sie die Anzahl anzuzeigender Items begrenzen möchten. Diese Einstellung ist beipielsweise nützlich, wenn Sie nur die ersten 500 Items anzeigen möchten, oder falls Sie alle Items anzeigen und dabei die ersten 10 überspringen wollen. Eine voreingestellte Paginierung bleibt dabei erhalten.';
 $GLOBALS['TL_LANG']['tl_content']['mm_config_legend']                    = 'MetaModel-Einstellungen';
 $GLOBALS['TL_LANG']['tl_content']['mm_filter_legend']                    = 'MetaModel-Filter';
