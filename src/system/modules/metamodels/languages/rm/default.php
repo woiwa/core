@@ -8,10 +8,13 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-06T20:11:26+02:00
+ * last-updated: 2013-05-06T22:11:27+02:00
  */
 
 $GLOBALS['TL_LANG']['BRD']['metamodel_attribute']                                     = 'Attributs da "%s"';
+$GLOBALS['TL_LANG']['BRD']['metamodel_dca']                                           = 'Tut las mascras d\'endataziun da "%s"';
+$GLOBALS['TL_LANG']['BRD']['metamodel_dcasetting']                                    = 'Mascra d\'endataziun en "%s"';
+$GLOBALS['TL_LANG']['BRD']['metamodel_dcasetting_subpalette']                         = 'Sut-spartas per "%s"';
 $GLOBALS['TL_LANG']['BRD']['metamodel_filter']                                        = 'Tut ils filters da "%s"';
 $GLOBALS['TL_LANG']['BRD']['metamodel_filtersetting']                                 = 'Configuraziun da filtrar en "%s"';
 $GLOBALS['TL_LANG']['BRD']['metamodel_rendersetting']                                 = 'Configuraziuns dad elavurar en "%s"';
@@ -27,6 +30,7 @@ $GLOBALS['TL_LANG']['ERR']['columnExists']                                      
 $GLOBALS['TL_LANG']['ERR']['install_extension']                                       = 'Installescha l\'extensiun dumandada "%s" (%s)';
 $GLOBALS['TL_LANG']['ERR']['invalidTableName']                                        = 'Il num da tabella è nunvalid.';
 $GLOBALS['TL_LANG']['ERR']['no_attribute_extension']                                  = 'Installescha almain ina extensiun d\'attributs! MetaModels senza attributs na fan naign senn.';
+$GLOBALS['TL_LANG']['ERR']['no_palette']                                              = 'Emprova dad acceder il MetaModel "%s" senza mascra d\'endataziun per l\'utilisader %s.';
 $GLOBALS['TL_LANG']['ERR']['no_view']                                                 = 'Emprova dad acceder il MetaModel "%s" senza senza opziun da vista per l\'utilisader %s.';
 $GLOBALS['TL_LANG']['ERR']['upgrade_php_version']                                     = 'La versiun da l\'interpreter da PHP è memia bass, actualisescha almain a %s (ti utiliseschas actualmain %s)';
 $GLOBALS['TL_LANG']['MSC']['metamodel_edit_as_child']['label']                        = 'Modifitgar "%s" per l\'element %%s';
