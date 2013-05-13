@@ -8,9 +8,8 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-13T06:40:07+02:00
+ * last-updated: 2013-05-13T16:11:26+02:00
  */
-
 
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['advanced_legend']  = 'Προσαρμοσμενες ρυθμισεις';
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['colname']['0']     = 'Όνομα στήλης ';
@@ -30,6 +29,7 @@ $GLOBALS['TL_LANG']['tl_metamodel_attribute']['editheader']['1']  = 'Επεξε�
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['isunique']['0']    = 'Μοναδικές τιμές ';
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['isunique']['1']    = 'Ελέγξτε αυτό, αν θέλετε να εξασφαλίστει ότι κάθε τιμή εμφανίζεται μόνο μία φορά ';
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['isvariant']['0']   = 'Ενεργοποίηση της παράκαμψης παραλλαγής ';
+$GLOBALS['TL_LANG']['tl_metamodel_attribute']['isvariant']['1']   = 'Ελέγξτε αυτό , αν θέλετε παραλλαγές μέσα στο  MetaModel για να παρακάμψετε την αξία του στοιχείου μητρικής';
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['name']['0']        = 'Ονομα';
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['name']['1']        = ' Ανθρώπινα αναγνώσιμο όνομα ';
 $GLOBALS['TL_LANG']['tl_metamodel_attribute']['name_langcode']    = 'Γλωσσα ';
