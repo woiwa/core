@@ -8,9 +8,13 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-13T07:31:45+02:00
+ * last-updated: 2013-05-13T09:11:26+02:00
  */
 
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['additionalCss']['0']     = 'Datotecas CSS supplementaras';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['additionalCss']['1']     = 'Tscherna quai sche ti vuls includer ulteriuras datotecas CSS.';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['additionalJs']['0']      = 'Datotecas da JavaScript supplementaras';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['additionalJs']['1']      = 'Tscherna quai sche ti vuls includer ulteriuras datotecas da JavaScript.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['copy']['0']              = 'Copiar la definiziun da la configuraziun';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['copy']['1']              = 'Copiar la definiziun da la configuraziun cun l\'ID %s';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['delete']['0']            = 'Stizzar la configuraziun';
@@ -43,6 +47,7 @@ $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['name']['0']              = '
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['name']['1']              = 'Num da la configuraziun';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['new']['0']               = 'Nov';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['new']['1']               = 'Crear ina nova configuraziun';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['publish']                = 'Publitgar.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['settings']['0']          = 'Definir coniguraziuns da l\'attribut';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['settings']['1']          = 'Definir las coniguraziuns da l\'attribut cun l\'ID %s';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['show']['0']              = 'Detagls dal filter';
