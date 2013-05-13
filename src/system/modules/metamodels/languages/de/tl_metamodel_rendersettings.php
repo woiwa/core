@@ -8,7 +8,7 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-06T23:11:21+02:00
+ * last-updated: 2013-05-13T07:31:45+02:00
  */
 
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['copy']['0']              = 'Einstellung kopieren';
@@ -18,6 +18,7 @@ $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['delete']['1']            = '
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['edit']['0']              = 'Einstellung bearbeiten';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['edit']['1']              = 'Bearbeiten Sie die Einstellungen ID %s.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['expert_legend']          = 'Experteneinstellungen';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['file']                   = 'Datei';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['format']['0']            = 'Ausgabeformat';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['format']['1']            = 'Legen Sie das Ausgabeformat fest. Lassen Sie die Definition leer, um das Format zu verwenden, das von der aktuellen Seite benutzt wird.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['formatOptions']['html5'] = 'HTML5';
@@ -51,3 +52,4 @@ $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['template']['1']          = '
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['title_legend']           = 'Name';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['tstamp']['0']            = 'Aktualisierungsdatum';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['tstamp']['1']            = 'Datum und Zeit der letzten Aktualisierung.';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['view_legend']            = 'Einstellungen ansehen';

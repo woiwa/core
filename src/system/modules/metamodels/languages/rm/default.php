@@ -8,7 +8,7 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-06T22:11:27+02:00
+ * last-updated: 2013-05-13T07:31:45+02:00
  */
 
 $GLOBALS['TL_LANG']['BRD']['metamodel_attribute']                                     = 'Attributs da "%s"';
@@ -23,6 +23,8 @@ $GLOBALS['TL_LANG']['BRD']['metamodels']                                        
 $GLOBALS['TL_LANG']['CTE']['metamodel_content']['0']                                  = 'Glista da MetaModel';
 $GLOBALS['TL_LANG']['CTE']['metamodel_content']['1']                                  = 'Agiuntescha ina glista dad elements da MetaModel a l\'artitgel.';
 $GLOBALS['TL_LANG']['CTE']['metamodels']                                              = 'Elements da MetaModel';
+$GLOBALS['TL_LANG']['CTE']['metamodels_frontendclearall']['0']                        = 'Redefinir tut ils MetaModels';
+$GLOBALS['TL_LANG']['CTE']['metamodels_frontendclearall']['1']                        = 'Agiuntescha la pussaivladad da redefinir tut ils filters dal front-end.';
 $GLOBALS['TL_LANG']['CTE']['metamodels_frontendfilter']['0']                          = 'Filter da front-end da MetaModel';
 $GLOBALS['TL_LANG']['CTE']['metamodels_frontendfilter']['1']                          = 'Agiuntescha in filter da front-end per in MetaModel.';
 $GLOBALS['TL_LANG']['ERR']['activate_extension']                                      = 'Activescha l\'extensiun dumandada "%s" (%s)';
@@ -61,6 +63,7 @@ $GLOBALS['TL_LANG']['MSC']['tl_class']['wizard']['0']                           
 $GLOBALS['TL_LANG']['MSC']['tl_class']['wizard']['1']                                 = 'Scursanir il champ d\'endataziun per ch\'i haja avunda plaz per in buttun d\'assistenza (p.ex. champs da tscherner la data).';
 $GLOBALS['TL_LANG']['metamodels_frontendfilter']['action_add']                        = '+';
 $GLOBALS['TL_LANG']['metamodels_frontendfilter']['action_remove']                     = '-';
+$GLOBALS['TL_LANG']['metamodels_frontendfilter']['clear_all']                         = 'Redefinir tut ils filters';
 $GLOBALS['TL_LANG']['metamodels_frontendfilter']['do_not_filter']                     = 'Na betg filtrar';
 $GLOBALS['TL_LANG']['metamodels_frontendfilter']['no_combinations']                   = '(Chatta naginas cumbinaziuns correspundentas.)';
 $GLOBALS['TL_LANG']['metamodels_frontendfilter']['select_all']                        = 'Tscherner tut';
