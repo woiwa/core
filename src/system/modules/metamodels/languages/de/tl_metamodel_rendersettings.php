@@ -8,9 +8,11 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-13T07:31:45+02:00
+ * last-updated: 2013-05-13T14:11:26+02:00
  */
 
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['additionalCss']['0']     = 'Zusätzliche CSS-Dateien';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['additionalCss']['1']     = 'Wählen Sie diese Option, wenn Sie zusätzliche Css-Dateien einschließen möchten. ';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['copy']['0']              = 'Einstellung kopieren';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['copy']['1']              = 'Kopieren Sie die Einstellung ID %s.';
 $GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['delete']['0']            = 'Einstellung löschen';
