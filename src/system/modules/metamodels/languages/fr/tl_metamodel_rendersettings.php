@@ -8,8 +8,13 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-13T06:53:36+02:00
+ * last-updated: 2013-05-13T19:11:30+02:00
  */
 
-
-$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['template']['0'] = 'Modèle';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['isdefault']['0']       = 'Par défaut';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['jumpTo_language']['0'] = 'Langue';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['name']['0']            = 'Nom';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['template']['0']        = 'Modèle';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['title_legend']         = 'Nom';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['tstamp']['0']          = 'Date de révision';
+$GLOBALS['TL_LANG']['tl_metamodel_rendersettings']['tstamp']['1']          = 'Date et heure de la dernière révision.';

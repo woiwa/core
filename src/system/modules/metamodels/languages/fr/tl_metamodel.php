@@ -8,8 +8,10 @@
  *
  * @license http://www.gnu.org/licenses/lgpl-3.0.html LGPL
  *
- * last-updated: 2013-05-13T06:40:07+02:00
+ * last-updated: 2013-05-13T19:11:30+02:00
  */
 
-
-$GLOBALS['TL_LANG']['tl_metamodel']['editheader']['0'] = 'Éditer le MetaModel';
+$GLOBALS['TL_LANG']['tl_metamodel']['editheader']['0']         = 'Éditer le MetaModel';
+$GLOBALS['TL_LANG']['tl_metamodel']['languages_langcode']['0'] = 'Langue';
+$GLOBALS['TL_LANG']['tl_metamodel']['name']['0']               = 'Nom';
+$GLOBALS['TL_LANG']['tl_metamodel']['tstamp']['0']             = 'Date de révision';
